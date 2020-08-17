@@ -45,7 +45,7 @@ public class DummyControllerTest {
 		} catch (EmptyResultDataAccessException e) {
 			return "삭제에 실패하였습니다. 해당 id는 DB에 없습니다.";
 		}
-		
+
 		return "삭제되었습니다. id : " + id;
 	}
 	
