@@ -3,7 +3,7 @@
 <br />
 <div class="jumbotron text-center" style="margin-bottom: 0">
 	<p>Created by DongHyeok</p>
-	<p>📞409@naver.com</p>
+	<p>📞ssjf409@naver.com</p>
 	<p>🏴인천광역시 연수구 청학동</p>
 </div>
 </body>

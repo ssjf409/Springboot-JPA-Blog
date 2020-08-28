@@ -19,6 +19,6 @@ public class GlobalExceptionHandler {
 	// 모든 Exception이 다 들어온다.
 	@ExceptionHandler(value = Exception.class)
 	public ResponseDto<String> handleArgumentException(Exception e) {
-		return new ResponseDto<String>(HttpStatus.INTERNAL_SERVER_ERROR.value(), e.getMessage());
+		return new ResponseDto<String>(HttpStatus.INTERNAL_SERVER_ERROR.value(), e.getMessage()); // 500
 	}
 }
