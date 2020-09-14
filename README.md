@@ -1,7 +1,9 @@
 # 🍃Springboot-JPA-Blog
-스프링 부트, JPA를 사용해서 블로그 서버를 만들었습니다.
-DB는 MySQL이고 시큐리티와 OAuth를 연습해 보았습니다.
+Framwork : Spring Boot, JPA</br>
+DB - MySQL</br>
 
+구현 목표 : 블로그 구현</br>
+구현 내용 : 로그인, 회원가입, 회원수정, 게시글 작성, 게시글 수정, 댓글 작성, 댓글 수정, 시큐리티, OAuth 등등..
 <br>
 
 🍃Screenshots
