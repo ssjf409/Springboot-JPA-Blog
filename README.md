@@ -1,6 +1,6 @@
 # 🍃Springboot-JPA-Blog
-Framwork : Spring Boot, JPA</br>
-DB - MySQL</br>
+Framwork : Spring Boot 2.3.2.RELEASE, JPA</br>
+DB - MySQL 8.0</br>
 
 구현 목표 : 블로그 구현</br>
 구현 내용 : 로그인, 회원가입, 회원수정, 게시글 작성, 게시글 수정, 댓글 작성, 댓글 수정, 시큐리티, OAuth 등등..
