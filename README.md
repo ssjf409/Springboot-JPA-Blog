@@ -36,4 +36,8 @@ OAuth를 이용해서 로그인
 <br>
 <img src="https://user-images.githubusercontent.com/35087350/92291667-ae5f6480-ef54-11ea-848c-4793b42ca6ad.gif" width="45%"></img>
 <br>
+게시물 페이지별로 나누기
+<br>
+<br>
+<br>
 </div>
