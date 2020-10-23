@@ -18,6 +18,10 @@ DB - MySQL 8.0</br>
 <br>
 <img src="https://user-images.githubusercontent.com/35087350/92291664-ac95a100-ef54-11ea-93ca-5056a8f1b779.gif" width="45%"></img>
 <br>
+OAuth를 이용해서 로그인
+<br>
+<br>
+<br>
 <img src="https://user-images.githubusercontent.com/35087350/92291665-ad2e3780-ef54-11ea-96ac-17890cec4bbd.gif" width="45%"></img>
 <br>
 <img src="https://user-images.githubusercontent.com/35087350/92291666-ad2e3780-ef54-11ea-9cb9-38d0d4f052dc.gif" width="45%"></img>
